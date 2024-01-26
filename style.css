@@ -1,0 +1,90 @@
+.nav {
+    width: 100%;
+    height: 71px;
+    background-color: red;
+    display: flex;
+}
+
+.logo {}
+
+.logoname {
+    margin-left: 10px;
+}
+
+.logoname p {
+    margin-top: 4px;
+    font-size: 40px;
+    font-family: coronet;
+    color: blue;
+}
+
+.nav_mid {
+    width: 500px;
+    height: 60px;
+    margin-left: 150px;
+    margin-top: 20px;
+}
+
+.logo img {
+    margin-top: 5px;
+    margin-left: 6px;
+    width: 66px;
+    height: 59px;
+}
+
+.home a {
+    text-decoration: none;
+    color: black;
+    font-size: 24px;
+}
+
+.products {
+    font-size: 24px;
+    margin-left: 50px;
+}
+
+.check_availability {
+    font-size: 24px;
+    margin-left: 50px;
+}
+
+.cart_login {
+    width: 300px;
+    height: 70px;
+    display: flex;
+    margin-left: 150px;
+
+}
+
+.cart_login img {
+    width: 50px;
+    height: 36px;
+
+}
+
+.cart_login p {
+    margin-top: 46px;
+    margin-left: -36px;
+}
+
+.Sign {
+
+    width: 93px;
+    height: 42px;
+    border-radius: 12px;
+    background-color: blue;
+    color: red;
+    margin-top: 15px;
+    margin-left: 30px;
+}
+
+.login {
+    width: 93px;
+    height: 42px;
+    border-radius: 12px;
+    background-color: blue;
+    color: red;
+    margin-top: 15px;
+    margin-left: 20px;
+
+}
